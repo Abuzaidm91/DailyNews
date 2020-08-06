@@ -1,0 +1,201 @@
+﻿<Window x:Class="DailyNews.Views.frmAddUpdateNews"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:b="clr-namespace:DailyNews"
+        xmlns:Converters="clr-namespace:DailyNews.Converters"
+        xmlns:VideoElement="clr-namespace:DailyNews.VideoElementNS"
+        xmlns:wpfTool="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+        mc:Ignorable="d"
+        Title="frmAddEditNews"  Height="1000" Width="850" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Closed="Window_Closed">
+    <Window.Resources>
+        <Converters:ConvertToEeasternNumbers x:Key="ConvertToEeasternNumbers"/>
+        <Converters:ConverterToBitImage x:Key="ConverterToBitImage"/>
+        <Style x:Key="{x:Type b:ImageButton}" TargetType="{x:Type b:ImageButton}" >
+            <Setter Property="Height" Value="{Binding width , RelativeSource={RelativeSource TemplatedParent}}"/>
+            <Setter Property="Width" Value="{Binding width , RelativeSource={RelativeSource TemplatedParent}}"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="7 3"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type b:ImageButton}">
+                        <Border>
+                            <Image x:Name="_Image" HorizontalAlignment="Center" VerticalAlignment="Center" Width="{TemplateBinding Width}"
+                            Source="{Binding Path=Source, RelativeSource={RelativeSource TemplatedParent}}" Height="{TemplateBinding Height}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="TextBoxLable" TargetType="TextBox" >
+            <Setter Property="FontSize" Value="21"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Margin" Value="10 2 10 2" />
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Border CornerRadius="5">
+                            <Border.Background>
+                                <SolidColorBrush Color="#FF673AB7"/>
+                            </Border.Background>
+                            <Border.Effect>
+                                <DropShadowEffect BlurRadius="5" ShadowDepth="1" />
+                            </Border.Effect>
+                            <TextBlock Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Text  }" Foreground="AliceBlue" Padding="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Padding  }" TextAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="TextBox" >
+            <Setter Property="FontSize" Value="21"/>
+            <Setter Property="Foreground" Value="Blue"/>
+        </Style>
+        <Style BasedOn="{StaticResource MaterialDesignComboBox}" TargetType="ComboBox" >
+            <Setter Property="Foreground" Value="Blue"/>
+            <Setter Property="FontSize" Value="21"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="10 0"/>
+        </Style>
+    </Window.Resources>
+    <Grid FlowDirection="RightToLeft">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="TitleBar"  Height="30"  VerticalAlignment="Top" Background="#FF673AB7" MouseDown="TitleBar_MouseDown" >
+            <Button  x:Name="btnClose" Cursor="Hand" Click="btnClose_Click" Style="{StaticResource TitleBarButtons}"  HorizontalAlignment="Right" >
+                <Image Source="/Resource/close-window-48.png"  />
+            </Button>
+        </Grid>
+        <ScrollViewer Grid.Row="1" Margin="0 5">
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="170"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                    <RowDefinition Height="auto" MinHeight="55"/>
+                </Grid.RowDefinitions>
+                <TextBox x:Name="tbkTitle" Text="العنوان " Grid.Column="0" Grid.Row="0" Style="{StaticResource TextBoxLable}" Margin="0 5"  />
+                <TextBox x:Name="txtTitle" Text="{Binding Title}" TextWrapping="Wrap" Grid.Column="1" Grid.Row="0" Margin="0 5" HorizontalContentAlignment="Center" />
+
+                <TextBox x:Name="tbkResources" Text="المصدر " Grid.Column="0" Grid.Row="1" Style="{StaticResource TextBoxLable}" Margin="0 5"  />
+                <ComboBox x:Name="cbxResources" Text="{Binding Resource}" Grid.Column="1" Grid.Row="1" Margin="0 5"  HorizontalContentAlignment="Center" />
+
+                <TextBox x:Name="tbkAuthers" Text="المؤلف " Grid.Column="0" Grid.Row="2" Style="{StaticResource TextBoxLable}" Margin="0 5"  />
+                <ComboBox x:Name="cbxAuthers" Text="{Binding Author}" IsEditable="True" IsTextSearchEnabled="True" Grid.Column="1" Grid.Row="2"  Margin="0 5" HorizontalContentAlignment="Center" />
+
+                <TextBox x:Name="tbkObservers" Text="الراصد " Grid.Column="0" Grid.Row="3" Style="{StaticResource TextBoxLable}"  Margin="0 5"  />
+                <ComboBox x:Name="cbxObservers" Text="{Binding Observer}" Grid.Column="1" Grid.Row="3" Margin="0 5" HorizontalContentAlignment="Center"  />
+                
+                <TextBox x:Name="Region" Text="الاقليم " Grid.Column="0" Grid.Row="4" Style="{StaticResource TextBoxLable}"  Margin="0 5"  />
+                <ComboBox x:Name="cbxRegion" Text="{Binding Region}" Grid.Column="1" Grid.Row="4" Margin="0 5" HorizontalContentAlignment="Center"  >
+                    <ComboBoxItem>دولي</ComboBoxItem>
+                    <ComboBoxItem>محلي</ComboBoxItem>
+                </ComboBox>
+
+                <TextBox x:Name="tbkDatePicker" TextWrapping="Wrap" Text="التاريخ" Grid.Column="0" Grid.Row="5" Style="{StaticResource TextBoxLable}" Margin="0 5"  />
+                <wpfTool:DateTimePicker x:Name="dtpDatePicker"  Grid.Column="1" Grid.Row="5" Format="Custom" FormatString="yyyy/MM/dd hh:mm tt"   Value="{Binding DateAndTime}"  FontSize="16" Width="190" Margin="0 5"   />
+
+
+                <TextBox x:Name="tbkImage" Text=" الصورة " Grid.Column="0" Grid.Row="6"   Style="{StaticResource TextBoxLable}" Margin="0 5"  />
+                <Border x:Name="ImageShow" CornerRadius="5" ToolTip="أضفط لاضافة صورة" Cursor="Hand" Grid.Column="1" Grid.Row="6" FlowDirection="LeftToRight" Margin="0 5"  MouseDown="btnOpenFileImage_Click"  >
+                    <Border.Style>
+                        <Style TargetType="{x:Type Border}">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Image, Converter={Converters:ConvertToNull}}" Value="true">
+                                    <Setter Property="Background" >
+                                        <Setter.Value>
+                                            <ImageBrush ImageSource="/Images/ImageIcon.png" />
+                                        </Setter.Value>
+                                    </Setter>
+                                    <Setter Property="Width" Value="50"/>
+                                    <Setter Property="Height" Value="50"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Image , Converter={Converters:ConvertToNull}}" Value="false">
+                                    <Setter Property="Background" >
+                                        <Setter.Value>
+                                            <ImageBrush ImageSource="{Binding Image , Converter={StaticResource ConverterToBitImage}}" />
+                                        </Setter.Value>
+                                    </Setter>
+                                    <Setter Property="Width" Value="250"/>
+                                    <Setter Property="Height" Value="200"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Border.Style>
+                </Border>
+
+                <TextBox x:Name="tbkDetails" Text="التفاصيل" Grid.Column="0" Grid.Row="7" Style="{StaticResource TextBoxLable}" Margin="0 5"  />
+                <TextBox x:Name="txtDetails"  AcceptsReturn="True"  Grid.Column="1" Grid.Row="7"  Text="{Binding Details}" TextWrapping="Wrap" Margin="0 5"  />
+
+                <TextBox x:Name="tbkComment" Text="التعليق" Grid.Column="0" Grid.Row="8" Style="{StaticResource TextBoxLable}" Margin="0 5"  />
+                <TextBox x:Name="txtComment"  AcceptsReturn="True"  Grid.Column="1" Grid.Row="8"  Text="{Binding Comment}" TextWrapping="Wrap" Margin="0 5"  />
+
+                <TextBox x:Name="tbkVideo" Text=" فيديوا " Grid.Column="0" Grid.Row="9" Style="{StaticResource TextBoxLable}"  Margin="0 5" />
+                <ContentControl x:Name="VideoShow"  Cursor="Hand" Margin="0 5" Grid.Column="1" Grid.Row="9"   ToolTip="أضغط لإضافة أو تغيير الفيديوا"   FlowDirection="LeftToRight"   MouseDown="btnOpenFileVedio_Click"   >
+                    <ContentControl.Style>
+                        <Style TargetType="{x:Type ContentControl}">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Image, Converter={Converters:ConvertToNull}}" Value="true" >
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate>
+                                                <Border>
+                                                    <Border.Background>
+                                                        <ImageBrush ImageSource="/Images/MoviesIcon.png" />
+                                                    </Border.Background>
+                                                </Border>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                    <Setter Property="Width" Value="50"/>
+                                    <Setter Property="Height" Value="50"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Video, Converter={Converters:ConvertToNull}}" Value="false">
+                                    <Setter Property="Template" >
+                                        <Setter.Value>
+                                            <ControlTemplate>
+                                                <Grid>
+                                                    <VideoElement:VideoElement  VideoSource="{Binding Video}" Width="300" Height="300" />
+                                                </Grid>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                    <Setter Property="Width" Value="250"/>
+                                    <Setter Property="Height" Value="200"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </ContentControl.Style>
+                </ContentControl>
+            </Grid>
+        </ScrollViewer>
+        <Grid Grid.Row="2" Height="auto"  Background="#FF673AB7">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Button  Margin="0 5" Click="btnOk_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Icons/OkIcon.png" Margin="5 0"/>
+                    <TextBlock Text="تم" />
+                </StackPanel>
+            </Button>
+            <CheckBox Content="تحديد كخبر سري"  IsChecked="{Binding IsHidden}" Margin="10 0 0 0" Background="AliceBlue" Foreground="AntiqueWhite" FontSize="14"  />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

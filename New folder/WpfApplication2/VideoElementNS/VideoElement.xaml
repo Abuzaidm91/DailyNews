@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="DailyNews.VideoElementNS.VideoElement"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DailyNews"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Name="Video" >
+    <Grid Background="Black"  MouseEnter="Grid_MouseEnter"   MouseLeave="Grid_MouseLeave" Height="{Binding Path=Height,ElementName=This}" Width="{Binding Path=Width,ElementName=This}">
+        <MediaElement Name="VideoPlayer"  Width="auto" Height="auto"
+        LoadedBehavior="Manual" Source="{Binding VideoSource , ElementName=Video }" UnloadedBehavior="Stop" Stretch="Fill"/>
+        <Border Name="Bar" Visibility="Hidden">
+            <StackPanel  Width="auto" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center"  Height="auto" >
+
+                <!-- Pause button. -->
+                <Image Source="/VideoElementNS/Icons/PauseIcon.png" Width="25" Height="25" MouseDown="OnMouseDownPauseMedia" Margin="8" Cursor="Hand" />
+
+                <!-- Stop button. -->
+                <Image Source="/VideoElementNS/Icons/StopIcon.png" Width="25" Height="25"  MouseDown="OnMouseDownStopMedia" Margin="8" Cursor="Hand"/>
+
+                <!-- Play button. -->
+                <Image Source="/VideoElementNS/Icons/PlayIcon.png"  Width="25" Height="25"  MouseDown="OnMouseDownPlayMedia" Margin="8" Cursor="Hand" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>

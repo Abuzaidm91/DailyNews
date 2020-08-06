@@ -1,0 +1,31 @@
+﻿<Window x:Class="DailyNews.Views.ReaderRate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:StarRatingsControl="clr-namespace:DailyNews.StarRatingsControl"
+        mc:Ignorable="d"
+        Title="Window1" Height="80" Width="300" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Window.Resources>
+        <StarRatingsControl:RatingsControl x:Key="RatingsControl"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+    <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center">
+        <Slider x:Name="Slider" Value="{Binding ReaderRate}" Minimum="1" Maximum="5" TickFrequency="1"  IsSnapToTickEnabled="True" Width="200" VerticalAlignment="Center" Margin="5" />
+        <TextBlock Text="{Binding ReaderRate}" Margin="5" FontSize="16" VerticalAlignment="Center" />
+        <Button x:Name="Ok" Content="قيم" VerticalAlignment="Center" Click="Ok_Click" />
+    </StackPanel>
+        <StarRatingsControl:RatingsControl x:Name="ratings1"             
+                                                Value="{Binding ElementName=Slider , Path=Value}"
+                                                NumberOfStars="5" 
+                                                HorizontalAlignment="Center"
+                                                StarOutlineColor="DarkGray"
+                                                StarForegroundColor="Orange"
+                                                BackgroundColor="white"
+                                                Grid.Row="1"  Cursor="Hand" Margin="3 0" />   
+    </Grid>
+</Window>
