@@ -88,6 +88,9 @@
     <Compile Include="VideoElementNS\VideoElement.xaml.cs">
       <DependentUpon>VideoElement.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\frmAddUpdatesSocialMedia.xaml.cs">
+      <DependentUpon>frmAddUpdatesSocialMedia.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\frmAddUpdateNews.xaml.cs">
       <DependentUpon>frmAddUpdateNews.xaml</DependentUpon>
     </Compile>
@@ -116,6 +119,10 @@
     <Page Include="DictionaryResources\VideoButton.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\frmAddUpdatesSocialMedia.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="Views\frmAddUpdateNews.xaml">
       <SubType>Designer</SubType>
@@ -272,8 +279,8 @@
     <Resource Include="Images\Top_secret.jpg" />
     <Resource Include="Images\Button-Info-icon.png" />
     <Resource Include="Images\Exclamation-icon.png" />
-    <Resource Include="Images\social-media.png" />
-    <Resource Include="Images\Social media.jpg" />
+    <Resource Include="Images\SocialMedia.png" />
+    <Resource Include="Images\SocialMedia-.png" />
     <Content Include="Video\1.mp4">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

@@ -23,13 +23,43 @@ namespace DailyNews.Views
     public partial class frmSocialMedia : UserControl
     {
         List<News> news;
-        //frmSearch NewfrmSearch = new frmSearch();
+        frmSearch NewfrmSearch;
+        Nullable<DateTime> StartDate = null;
+        Nullable<DateTime> EndDate = null;
+        Nullable<Boolean> IsRead = null;
+        string Region = null;
+        string Resource = null;
+        string Observer = null;
+        string KeyWord = null;
         public frmSocialMedia()
         {           
             InitializeComponent();
-            news = DataBaseManager.GetNews(null,null, null, null, null,null,null);
-            NewsList.ItemsSource = news;
             initilizeTimerForHiddenLight();
+            GetNews();
+          //  NewfrmSearch = new frmSearch(this);
+        }
+
+
+        
+        public void SetSearchedNewsProperties(Nullable<DateTime> StartDate, Nullable<DateTime> EndDate,
+           Nullable<Boolean> IsRead, string Region, string Resource, string Observer, string KeyWord)
+        {
+            this.StartDate = StartDate;
+            this.EndDate = EndDate;
+            this.IsRead = IsRead;
+            this.Region = Region;
+            this.Resource = Resource;
+            this.Observer = Observer;
+            this.KeyWord = KeyWord;
+        }
+
+        public void GetNews()
+        {
+            news = new List<News>();
+            news = DataBaseManager.GetNews(this.StartDate, this.EndDate, this.IsRead,
+                this.Region, this.Resource, this.Observer, this.KeyWord);
+            NewsList.ItemsSource = null;
+            NewsList.ItemsSource = news;
         }
 
         private void initilizeTimerForHiddenLight()
@@ -72,8 +102,8 @@ namespace DailyNews.Views
             var borderSelected = (Border)sender;
             var newsSelected = (News)borderSelected.DataContext;
             int value = news.FindIndex(item => item.Id == newsSelected.Id);
-          /*  var frmView = new frmViewNews(news, value);
-            frmView.ShowDialog();*/
+         //   var frmView = new frmViewNews(news, value,this);
+         //   frmView.ShowDialog();
         }
 
         private void Favourite_Click(object sender, RoutedEventArgs e)
@@ -109,13 +139,14 @@ namespace DailyNews.Views
 
         private void btnSearch_Click(object sender, RoutedEventArgs e)
         {
-            //NewfrmSearch.ShowDialog();
+            
+            NewfrmSearch.ShowDialog();
         }
 
-        private void btnAddNews_Click(object sender, RoutedEventArgs e)
+        private void btnAddUpdateSocialMedia_Click(object sender, RoutedEventArgs e)
         {
-          /*  frmAddUpdateNews NewaddNews = new frmAddUpdateNews(null);
-            NewaddNews.ShowDialog();*/
+           frmAddUpdatesSocialMedia NewaddUpdateScialMedia = new frmAddUpdatesSocialMedia(null, this);
+            NewaddUpdateScialMedia.ShowDialog();
         }
 
 

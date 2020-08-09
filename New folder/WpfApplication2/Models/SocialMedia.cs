@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DailyNew.Models
 {
-    class SocialMedia : INotify, ICloneable
+    public class SocialMedia : INotify, ICloneable
     {
 
             //This Clone Property to get assiged by value not refernce
@@ -112,8 +112,8 @@ namespace DailyNew.Models
 
             //***********************************
             //Image
-            private string _image;
-            public string Image
+            private List<string> _image = new List<string>();
+            public List<string> Image
             {
                 get
                 {
