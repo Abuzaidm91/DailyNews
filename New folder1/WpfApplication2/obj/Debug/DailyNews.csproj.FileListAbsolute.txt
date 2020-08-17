@@ -1,0 +1,550 @@
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\UserControl1.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\App.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\UserControl1.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\Ahmad\Desktop\DailyNews\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\UserControl1.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\App.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\UserControl1.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddEditNews.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddEditNews.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\NCO\Desktop\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddEditNews.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\App.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddEditNews.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\UserControl1.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddEditNews.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\App.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\UserControl1.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddEditNews.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddNews.g.cs
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddNews.baml
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\Xceed.Wpf.Samples.SampleData.dll
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ahmad\Desktop\New folder (5)\DailyNews-master\WpfApplication2\bin\Debug\Xceed.Wpf.Toolkit.pdb
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\Xceed.Wpf.Samples.SampleData.dll
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\bin\Debug\Xceed.Wpf.Toolkit.pdb
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\App.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\Ahmad\Desktop\New folder (6)\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\bin\Debug\Xceed.Wpf.Toolkit.pdb
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\App.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.pdb
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\StarControl.baml
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.baml
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\App.baml
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\RatingsControl.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\StarControl.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\App.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.exe
+D:\New folder\DailyNews-master\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\App.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\bin\Debug\Xceed.Wpf.Toolkit.pdb
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\bin\Debug\Xceed.Wpf.Toolkit.pdb
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\App.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\NCO\Desktop\DailyNews\New folder\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\App.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\DailyNews.exe.config
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\DailyNews.exe
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\DailyNews.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\App.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews_Content.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.cache
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.lref
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews.g.resources
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNew.Properties.Resources.resources
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews.exe
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\DailyNews.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\ReaderRate.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\ReaderRate.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\DailyNews.exe.config
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\DailyNews.exe
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\bin\Debug\DailyNews.pdb
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\ReaderRate.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews_Content.g.cs
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.cache
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.lref
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\Views\ReaderRate.baml
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews.g.resources
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNew.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews.exe
+C:\Users\Ahmad\Desktop\New folder\New folder\WpfApplication2\obj\Debug\DailyNews.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\CustomMessageBox.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\CustomMessageBox.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmSocialMedia.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmSocialMedia.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\DailyNews.exe.config
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\DailyNews.exe
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\DailyNews.pdb
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews.csprojAssemblyReference.cache
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\App.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmSocialMedia.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\ReaderRate.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\CustomMessageBox.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews_Content.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.cache
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.lref
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmSocialMedia.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\ReaderRate.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\Views\CustomMessageBox.baml
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews.g.resources
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNew.Properties.Resources.resources
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews.exe
+C:\Users\NCO\Desktop\Daily News Project\New folder\WpfApplication2\obj\Debug\DailyNews.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdatesSocialMedia.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmAddUpdatesSocialMedia.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmViewSocialMediaPost.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmViewSocialMediaPost.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmSearchSocialMedia.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder\WpfApplication2\obj\Debug\Views\frmSearchSocialMedia.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\Video\1.mp4
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\DailyNews.exe.config
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\DailyNews.exe.manifest
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\DailyNews.application
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\DailyNews.exe
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\DailyNews.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\MaterialDesignColors.dll
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmSearchSocialMedia.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\StarControl.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmSearch.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\App.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmAddUpdatesSocialMedia.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmSearchSocialMedia.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmSocialMedia.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmViewSocialMediaPost.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\RatingsControl.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\StarControl.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmNews.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmViewNews.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmSearch.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\ReaderRate.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\CustomMessageBox.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews_Content.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.cache
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews_MarkupCompile.lref
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DictionaryResources\ButtonDictionary.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DictionaryResources\VideoButton.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmAddUpdatesSocialMedia.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmAddUpdateNews.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmSocialMedia.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmViewSocialMediaPost.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\MainWindow.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\RatingsControl.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\VideoElementNS\VideoElement.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmNews.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\frmViewNews.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\ReaderRate.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\Views\CustomMessageBox.baml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.g.resources
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNew.Properties.Resources.resources
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.csproj.GenerateResource.cache
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.csproj.CoreCompileInputs.cache
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.TrustInfo.xml
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.exe.manifest
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.application
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.csproj.CopyComplete
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.exe
+C:\Users\NCO\Desktop\New folder (3)\New folder1\WpfApplication2\obj\Debug\DailyNews.pdb

@@ -1,0 +1,107 @@
+﻿<Window x:Class="DailyNews.Views.frmViewSocialMediaPost"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:video="clr-namespace:DailyNews.VideoElementNS"
+        xmlns:local="clr-namespace:DailyNews.Views"
+        xmlns:Converters="clr-namespace:DailyNews.Converters"
+        xmlns:locall="clr-namespace:DailyNews.StarRatingsControl"
+        xmlns:b="clr-namespace:DailyNews"
+        mc:Ignorable="d"
+        Title="frmViewNews" WindowStyle="None" Width="850" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" FlowDirection="RightToLeft" Background="White" Loaded="Window_Loaded" Closed="Window_Closed" Activated="Window_Activated"  >
+    <Window.Resources>
+        <Converters:ConvertToNull x:Key="ConvertToNullOrEmpty"/>
+        <Converters:ConvertToEeasternNumbers x:Key="ConvertToEeasternNumbers" />
+        <Converters:ConverterToBitImage x:Key="ConverterToBitImage"/>
+        <Style x:Key="{x:Type b:ImageButton}" TargetType="{x:Type b:ImageButton}" >
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Width" Value="35"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Margin" Value="7 3"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type b:ImageButton}">
+                        <Border>
+                            <Image x:Name="_Image" HorizontalAlignment="Center" VerticalAlignment="Center" Width="{TemplateBinding Width}"
+                            Source="{Binding Path=Source, RelativeSource={RelativeSource TemplatedParent}}" Height="{TemplateBinding Height}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontWeight" Value="ExtraBlack"/>
+            <Setter Property="FontSize"  Value="14"/>
+            <Setter Property="FontFamily"  Value="Cordia New"/>
+            <Setter Property="TextWrapping"  Value="Wrap"/>
+            <Setter Property="TextAlignment" Value="Justify"/>
+        </Style>
+    </Window.Resources>
+    <Grid FlowDirection="RightToLeft">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="TitleBar"  Height="30"  VerticalAlignment="Top" Background="DarkRed" MouseDown="TitleBar_MouseDown">
+            <Button  x:Name="btnClose" Cursor="Hand" Click="btnClose_Click" Style="{StaticResource TitleBarButtons}"  HorizontalAlignment="Right" >
+                <Image Source="/Resource/close-window-48.png"  />
+            </Button>
+        </Grid>
+        <ScrollViewer  VerticalScrollBarVisibility="Visible" Grid.Row="1">
+            <DockPanel LastChildFill="False" >
+                <TextBlock x:Name="Title" DockPanel.Dock="Top" Text="{Binding Title}" HorizontalAlignment="Center" TextAlignment="Center" FontSize="30" FontWeight="ExtraBold" TextWrapping="Wrap"/>
+                <TextBlock x:Name="Date" DockPanel.Dock="Top"  Text="{Binding DateAndTime, Converter={StaticResource ConvertToEeasternNumbers}}" FlowDirection="LeftToRight" TextAlignment="Right" Foreground="Red" Margin="10 2"/>
+
+                <ItemsControl x:Name="Images" DockPanel.Dock="Top" HorizontalAlignment="Center" >
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border x:Name="ImageShow" CornerRadius="5" Height="400" Width="600"    FlowDirection="LeftToRight" Margin="0 10"  >
+                                <Border.Background>
+                                    <ImageBrush ImageSource="{Binding}" />
+                                </Border.Background>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Vertical"/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                </ItemsControl>
+
+
+
+                <TextBlock Text="{Binding Comment , StringFormat='التعليق: {0}'}" DockPanel.Dock="Top" FontSize="18" FontWeight="Bold" Margin="10"   TextWrapping="Wrap" >
+                    <TextBlock.Style>
+                        <Style TargetType="TextBlock">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Comment, Converter={StaticResource ConvertToNullOrEmpty}}" Value="True" >
+                                    <Setter Property="Visibility" Value="Collapsed" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+            </DockPanel>
+        </ScrollViewer>
+        <Grid x:Name="ControlBar" Background="DarkRed" Grid.Row="2"  >
+            <StackPanel x:Name="AdminNavigationBarUser" Orientation="Horizontal" HorizontalAlignment="Left">
+                <b:ImageButton Source="/Icons/LastIcon.png"  Click="Last" />
+                <b:ImageButton Source="/Icons/NextIcon.png"  Click="Next" />
+                <b:ImageButton Source="/Icons/BackIcon.png"  Click="Back"/>
+                <b:ImageButton Source="/Icons/FirstIcon.png" Click="First" />
+            </StackPanel>
+            <StackPanel x:Name="NewsNumberBar" Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock x:Name="tbkCurrentPostNumber" Text="{Binding CurrnetNews,Converter={StaticResource ConvertToEeasternNumbers}}" FontSize="18" Foreground="AliceBlue"  VerticalAlignment="Center"  />
+                <TextBlock x:Name="tbkTotalPostNumber" Text="{Binding ListLength ,Converter={StaticResource ConvertToEeasternNumbers}, StringFormat=' من {0} '}"  FontSize="18" Foreground="AliceBlue" VerticalAlignment="Center" />
+            </StackPanel>
+            <StackPanel x:Name="AdminNavigationBar" Orientation="Horizontal" HorizontalAlignment="Right">
+                <b:ImageButton Source="/Icons/AddIcon.png" />
+                <b:ImageButton Source="/Icons/DeleteIcon.png" Click="Delete" />
+                <b:ImageButton Source="/Icons/EditIcon.png" Click="Edit" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
